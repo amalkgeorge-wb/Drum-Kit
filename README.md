@@ -1,2 +1,2 @@
-# DrumStick
-A drum stick made with JavaScript DOM. 
+# Drum Kit
+A drum kit made with JavaScript DOM. 
